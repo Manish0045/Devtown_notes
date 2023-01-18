@@ -1,4 +1,4 @@
-import "../public/styles.css";
+import "./styles.css";
 import Footer from "./components/Footer";
 import Heading from "./components/Heading";
 import Note from "./components/Note";
